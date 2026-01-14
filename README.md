@@ -1,16 +1,42 @@
-## Hi there 👋
+## Salut, je suis Shayaan ! 👋
 
-<!--
-**PePeNaKeD/PePeNaKeD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎯 Data Analyst & Data Engineer en devenir
 
-Here are some ideas to get you started:
+Actuellement : Alternant chez Espace Group | Étudiant Bachelor Data 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Objectif : Recherche d'alternance pour Octobre 2026 
+
+🛠️ Stack Technique
+
+☁️ Data & Cloud : GCP (BigQuery, Cloud Storage), SQL (PostgreSQL), Pipelines ETL, API GA4
+
+💻 Dev & Scripting : Python (Pandas, Numpy), JavaScript, Google Apps Script, React.js, Node.js
+
+📊 Visualisation & Outils : Power BI, Tableau, Git, SSH, Docker, Excel, Google Sheets
+
+## 🚀 Expériences Clés
+
+# 🏢 Data Analyst / Engineer @ Espace Group (Alternance)
+
+Automatisation : Création de pipelines de données via API GA4 et Google Apps Script.
+
+Infrastructure : Gestion de bases BigQuery & PostgreSQL, déploiement de scripts sur serveur (SSH).
+
+Business Intelligence : Reporting stratégique via Power BI et Excel pour les équipes métier.
+
+# 💼 Stage Business Intelligence
+
+Participation aux processus ETL et création de dashboards de pilotage (KPIs).
+
+# 💡 Projets Perso
+
+⚽ Analyse Stats Football : Exploration et visualisation de données sportives avec Pandas dans un Jupyter Notebook.
+
+🤖 Intégration IA : Développement d'outils utilisant l'API Gemini et Google Wallet.
+
+🌐 Web & Data : Création d'interfaces React connectées à des APIs Node.js.
+
+# 🧠 En bref
+
+Passionné par la technique mais conscient que la communication est clé. Je suis rigoureux, curieux, et j'aime transformer des problèmes complexes en solutions data simples.
+
