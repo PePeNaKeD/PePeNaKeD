@@ -1,6 +1,6 @@
-## Salut, je suis Shayaan ! 👋
+# Salut, je suis Shayaan ! 👋
 
-# 🎯 Data Analyst & Data Engineer en devenir
+## 🎯 Data Analyst & Data Engineer en devenir
 
 Actuellement : Alternant chez Espace Group | Étudiant Bachelor Data 
 
@@ -14,9 +14,9 @@ Objectif : Recherche d'alternance pour Octobre 2026
 
 📊 Visualisation & Outils : Power BI, Tableau, Git, SSH, Docker, Excel, Google Sheets
 
-## 🚀 Expériences Clés
+# 🚀 Expériences Clés
 
-# 🏢 Data Analyst / Engineer @ Espace Group (Alternance)
+## 🏢 Data Analyst / Engineer @ Espace Group (Alternance)
 
 Automatisation : Création de pipelines de données via API GA4 et Google Apps Script.
 
@@ -24,11 +24,11 @@ Infrastructure : Gestion de bases BigQuery & PostgreSQL, déploiement de scripts
 
 Business Intelligence : Reporting stratégique via Power BI et Excel pour les équipes métier.
 
-# 💼 Stage Business Intelligence
+## 💼 Stage Business Intelligence
 
 Participation aux processus ETL et création de dashboards de pilotage (KPIs).
 
-# 💡 Projets Perso
+## 💡 Projets Perso
 
 ⚽ Analyse Stats Football : Exploration et visualisation de données sportives avec Pandas dans un Jupyter Notebook.
 
@@ -36,7 +36,7 @@ Participation aux processus ETL et création de dashboards de pilotage (KPIs).
 
 🌐 Web & Data : Création d'interfaces React connectées à des APIs Node.js.
 
-# 🧠 En bref
+## 🧠 En bref
 
 Passionné par la technique mais conscient que la communication est clé. Je suis rigoureux, curieux, et j'aime transformer des problèmes complexes en solutions data simples.
 
