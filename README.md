@@ -4,7 +4,6 @@
 
 Actuellement : Alternant chez Espace Group | Étudiant Bachelor Data 
 
-Objectif : Recherche d'alternance pour Octobre 2026 
 
 🛠️ Stack Technique
 
