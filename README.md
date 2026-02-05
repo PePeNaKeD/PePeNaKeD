@@ -31,9 +31,9 @@ Participation aux processus ETL et création de dashboards de pilotage (KPIs).
 
 ⚽ Analyse Stats Football : Exploration et visualisation de données sportives avec Pandas dans un Jupyter Notebook.
 
-🤖 Intégration IA : Développement d'outils utilisant l'API Gemini et Google Wallet.
+🤖 Intégration IA : Développement d'outils utilisant l'API Gemini pour générer un score par avis clients.
 
-🌐 Web & Data : Création d'interfaces React connectées à des APIs Node.js.
+🌐 Web & Data : Création d'interfaces React connectées à des APIs Node.js pour la gestion d'évènement (stocks, personels,couts, rapports finaux).
 
 ## 🧠 En bref
 
