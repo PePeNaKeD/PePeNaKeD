@@ -23,6 +23,10 @@ Infrastructure : Gestion de bases BigQuery & PostgreSQL, déploiement de scripts
 
 Business Intelligence : Reporting stratégique via Power BI et Excel pour les équipes métier.
 
+Développement d'outils métiers : Conception de A à Z d'une application web (React/Node.js) de pilotage de la rentabilité événementielle. Ce projet démontre ma capacité à comprendre un besoin métier précis et à livrer de bout en bout une solution technique robuste et fiable en production.
+
+Acquisition Data & Fidélité : Développement d'un système de Pass Wallet (QR codes dynamiques) couplé à une base de données centralisée (Supabase) pour le tracking et l'analyse en temps réel des parcours clients.
+
 ## 💼 Stage Business Intelligence
 
 Participation aux processus ETL et création de dashboards de pilotage (KPIs).
