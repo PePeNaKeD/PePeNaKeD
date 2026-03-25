@@ -27,9 +27,15 @@ Développement d'outils métiers : Conception de A à Z d'une application web (R
 
 Acquisition Data & Fidélité : Développement d'un système de Pass Wallet (QR codes dynamiques) couplé à une base de données centralisée (Supabase) pour le tracking et l'analyse en temps réel des parcours clients.
 
-## 💼 Stage Business Intelligence
+## 💼 Stagiaire Business Intelligence @AxessLTD
 
-Participation aux processus ETL et création de dashboards de pilotage (KPIs).
+Architecture & Flux : Accompagnement sur la compréhension de l'architecture de données et assistance sur les processus ETL (SQL, SSIS) liés aux sources Incadea et CRM.
+
+Business Intelligence : Appui à la création et à la mise à jour de tableaux de bord de pilotage (Power BI) pour le suivi des indicateurs de performance.
+
+Analyse Métier : Participation aux réunions d'efficacité opérationnelle pour l'atelier mécanique (définition des objectifs et KPIs nécessaires au fonctionnement).
+
+Projet Power Platform : Réalisation en autonomie d'un projet d'étude utilisant un dataset Kaggle pour m'initier.
 
 ## 💡 Projets Perso
 
